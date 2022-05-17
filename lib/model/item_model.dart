@@ -1,4 +1,4 @@
-class ItemModel{
+class ItemModel {
   final String image;
   final String name;
   final int price;
